@@ -9,6 +9,8 @@ public class ForkClass {
 		System.out.println("Fork");
 		
 		System.out.println("Changes");
+		
+		System.out.println("New changes");
 
 
 	}
